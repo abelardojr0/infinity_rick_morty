@@ -35,5 +35,5 @@ export const MenuLink = styled(Link)`
 export const MiniLogo = styled.img`
   max-width: 150px;
   position: absolute;
-  left: 50px;
+  left: 140px;
 `;
