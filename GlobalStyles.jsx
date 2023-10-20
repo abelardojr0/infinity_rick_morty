@@ -63,6 +63,7 @@ export const ContainerCards = styled.section`
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 10px;
-  max-width: 80vw;
+  width: 100%;
+  max-width: 90vw;
   margin: 0 auto;
 `;

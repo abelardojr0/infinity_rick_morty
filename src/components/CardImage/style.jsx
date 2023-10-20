@@ -27,7 +27,7 @@ export const TitleCard = styled.h2`
 `;
 
 export const ImgCard = styled.img`
-  max-width: 250px;
+  max-width: 200px;
   border-radius: 8px;
 `;
 
